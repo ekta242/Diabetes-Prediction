@@ -7,9 +7,9 @@ This project was completed as part of my machine learning internship. When I sta
 The Diabetes Prediction project helped me understand the basics of machine learnin, data preprocessing, and model evaluation. More importantly, it gave me a practical understanding of some of the statistical concepts that are often discussed in theory.
 
 I also noticed that I'm really inclined towards learning about the "Why" and "How" it works rather than just coding.Exploring how the Statistical Reasoning behind the code felt more rewarding to me.
-## What I Learned
+## What I Learned 💻
 
-While working on this project, I explored💻:
+While working on this project, I explored:
 
 * Data cleaning and preprocessing
 * IQR-based outlier detection and removal
