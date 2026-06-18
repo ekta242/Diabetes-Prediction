@@ -7,6 +7,7 @@ This project was completed as part of my machine learning internship. When I sta
 The Diabetes Prediction project helped me understand the basics of machine learnin, data preprocessing, and model evaluation. More importantly, it gave me a practical understanding of some of the statistical concepts that are often discussed in theory.
 
 I also noticed that I'm really inclined towards learning about the "Why" and "How" it works rather than just coding.Exploring how the Statistical Reasoning behind the code felt more rewarding to me.
+
 ## What I Learned 💻
 
 While working on this project, I explored:
@@ -30,6 +31,11 @@ One of my favorite parts of the project was understanding the reasoning behind t
 * Scikit-learn
 * Imbalanced-learn (SMOTE)
 
+## How I Built This 🛠️
+Built with guidance during my internship. I understood the full 
+pipeline and the reasoning behind each step — from why we use 
+IQR for outlier removal to why SMOTE is needed for imbalanced datasets.
+
 ## Project Workflow🧠
 
 1. Load and explore the dataset
@@ -40,8 +46,9 @@ One of my favorite parts of the project was understanding the reasoning behind t
 6. Train a Logistic Regression model
 7. Evaluate model performance
 
-## Note💡
-
-The dataset used in this project was provided as part of an internship/training program and is not included in this repository.
+## Note 💡
+This project was completed during my first ML internship at DeltaQ Solutions (June 2026). 
+Dataset used: Pima Indians Diabetes Dataset — publicly available on Kaggle and UCI 
+Machine Learning Repository.
 
 
